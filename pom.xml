@@ -34,6 +34,12 @@
 		developers to add maps and other geographic data capabilities to their web applications.
 	</description>
 
+	<scm>
+		<connection>scm:git:git@github.com:janvenstermans/geomajas-plugin-gwt2-graphicsediting.git</connection>
+		<developerConnection>scm:git:git@github.com:janvenstermans/geomajas-plugin-gwt2-graphicsediting.git</developerConnection>
+		<url>https://github.com/janvenstermans/geomajas-plugin-gwt2-graphicsediting.git</url>
+	</scm>
+
 	<modules>
 		<module>impl</module>
 		<module>example-jar</module>
